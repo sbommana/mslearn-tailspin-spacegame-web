@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/scandialabs/SpaceGame/_apis/build/status/sbommana.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/scandialabs/SpaceGame/_build/latest?definitionId=6&branchName=main)
 
 # Contributing
 
